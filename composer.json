@@ -1,0 +1,18 @@
+{
+    "name": "infasatsi/jokify",
+    "description": "This is a package to generate random jokes",
+    "autoload": {
+        "psr-4": {
+            "Infasatsi\\Jokify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Infasatsi",
+            "email": "minfasatsi@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
